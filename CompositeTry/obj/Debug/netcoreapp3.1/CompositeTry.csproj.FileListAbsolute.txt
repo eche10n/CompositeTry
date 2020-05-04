@@ -1,0 +1,13 @@
+C:\Users\Workstation\source\repos\CompositeTry\CompositeTry\obj\Debug\netcoreapp3.1\CompositeTry.csprojAssemblyReference.cache
+C:\Users\Workstation\source\repos\CompositeTry\CompositeTry\obj\Debug\netcoreapp3.1\CompositeTry.csproj.CoreCompileInputs.cache
+C:\Users\Workstation\source\repos\CompositeTry\CompositeTry\obj\Debug\netcoreapp3.1\CompositeTry.AssemblyInfoInputs.cache
+C:\Users\Workstation\source\repos\CompositeTry\CompositeTry\obj\Debug\netcoreapp3.1\CompositeTry.AssemblyInfo.cs
+C:\Users\Workstation\source\repos\CompositeTry\CompositeTry\bin\Debug\netcoreapp3.1\CompositeTry.exe
+C:\Users\Workstation\source\repos\CompositeTry\CompositeTry\bin\Debug\netcoreapp3.1\CompositeTry.deps.json
+C:\Users\Workstation\source\repos\CompositeTry\CompositeTry\bin\Debug\netcoreapp3.1\CompositeTry.runtimeconfig.json
+C:\Users\Workstation\source\repos\CompositeTry\CompositeTry\bin\Debug\netcoreapp3.1\CompositeTry.runtimeconfig.dev.json
+C:\Users\Workstation\source\repos\CompositeTry\CompositeTry\bin\Debug\netcoreapp3.1\CompositeTry.dll
+C:\Users\Workstation\source\repos\CompositeTry\CompositeTry\bin\Debug\netcoreapp3.1\CompositeTry.pdb
+C:\Users\Workstation\source\repos\CompositeTry\CompositeTry\obj\Debug\netcoreapp3.1\CompositeTry.dll
+C:\Users\Workstation\source\repos\CompositeTry\CompositeTry\obj\Debug\netcoreapp3.1\CompositeTry.pdb
+C:\Users\Workstation\source\repos\CompositeTry\CompositeTry\obj\Debug\netcoreapp3.1\CompositeTry.genruntimeconfig.cache
