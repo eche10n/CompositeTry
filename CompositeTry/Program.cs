@@ -8,6 +8,7 @@ namespace CompositeTry
 
         class Client
         {
+            
             /// <summary>
             /// Создание армии
             /// </summary>
